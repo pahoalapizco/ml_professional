@@ -1,0 +1,24 @@
+# conda env create --file environment.yml
+name: ml_professional
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - seaborn
+  - pandas
+  - numpy
+  - matplotlib
+  - pip
+  - pyprojroot
+  - kagglehub
+  - fs
+  - jupyter
+  - jupyterlab
+  - pathlib
+  - statsmodels
+  - scipy
+  - scikit-learn
+  - python=3.12
+  - pip:
+    - pyhere
