@@ -3,8 +3,8 @@
 **Version**: 1.0
 **Author**: @pahoalapizco
 
+Notes and exercises from Platzi's course [Machine Learning Professional with scikit-learn](https://platzi.com/cursos/scikitlearn/)
 
-by Platzi
 
 ## Prerequisites
 - Anaconda >=4.x 
