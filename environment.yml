@@ -20,5 +20,7 @@ dependencies:
   - scipy
   - scikit-learn
   - python=3.12
+  - conda-forge::joblib
+  - unzip
   - pip:
     - pyhere
