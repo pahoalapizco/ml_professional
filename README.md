@@ -6,12 +6,19 @@
 Notes and exercises from Platzi's course [Machine Learning Professional with scikit-learn](https://platzi.com/cursos/scikitlearn/)
 
 
-Para el curso profesional de machine learning, se proporcionaron tres datasets diferentes. Con cada uno de éstos Datasets, se pretende estudiar un modelo de machine lerning especifico. 
+Para el curso profesional de machine learning, se proporcionaron tres datasets diferentes. Con cada uno de éstos Datasets, se pretende estudiar un modelo de machine learning especifico. 
 
 - **[World Happiness](https://www.kaggle.com/datasets/unsdsn/world-happiness)**: Contiene información desde 2012 hasta 2019, sobre diferentes aspectos de todos los países para evaluar su calidad de vida y percepción de felicidad de sus habitantes. 
 - **[Heart Disease](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)**: Contiene un subconjunto de 14 atributos de los datos tomados en 1988 en cuatro bases de datos médicas diferentes (Cleveland, Hungría, Suiza y Long Beach). Pretende relacionar diferentes variables medidas sobre el estado de saludos en varios pacientes con la presencia o ausencia de una patología cardiaca, para identificar los factores preponderantes en la aparición de estas.
 - **[The Ultimate Halloween Candy Power Ranking](https://www.kaggle.com/datasets/fivethirtyeight/the-ultimate-halloween-candy-power-ranking)**: Contiene información de la composición de 86 diferentes golosinas y de la preferencia de varias personas que fueron encuestadas para describir cuál es la favorita de los consumidores.
 
+
+
+<div class="alert alert-warning", role="alert">
+    <p>
+      📌 Los datasets de kaggle no son iguales a los datasets que nos proporcionaron en el curso, el profesor dijo, que éstos fueron curados para propósitos didácticos.
+    </p>
+</div>
 
 
 ## Prerequisites
