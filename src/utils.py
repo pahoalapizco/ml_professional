@@ -21,7 +21,8 @@ class Utils():
     return X, y
 
   def model_export(self, model, score, model_name):
-    joblib.dump(model, f"./models/{model_name}_model_{score:.4f}.pkl")
+    joblib.dump(model, f"./models/best_model.pkl")
+    print(f"El modelo {model_name} con un score de {score:.4f} exportado exitosamente.")
 
 
 if __name__ == "__main__":

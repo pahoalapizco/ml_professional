@@ -21,5 +21,6 @@ dependencies:
   - python=3.12
   - conda-forge::joblib
   - unzip
+  - conda-forge::flask
   - pip:
     - pyhere
